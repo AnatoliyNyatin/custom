@@ -1,0 +1,14 @@
+/.git/
+
+#Phpstorm
+/.idea/
+/auth.json
+/.web-server-pid
+/build/
+/phpunit.xml
+
+/.composer/
+/.cache/
+/.ssh/
+
+/.gitconfig
